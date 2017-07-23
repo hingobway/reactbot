@@ -12,6 +12,7 @@ A Discord Bot for automated phrase reactions and similar reaction antics.
 ## Installation
 
 1. Download and extract the code.
+1. Rename 'config.tmp.ini' to 'config.ini' and fill it with required data.
 1. Run `npm install` inside the folder to install the required dependencies.
 1. Install pm2 with `npm install -g pm2`.
 1. Start the process with `pm2 start index.js --name="react"`.
