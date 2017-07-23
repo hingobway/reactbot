@@ -30,4 +30,5 @@ pm2 status
 - Custom emojis are not supported yet.
 - The default emoji can only by one emoji, not a set.
 - The bot will react with the same emojis on all servers at once--no separate sets.
+
 [Found your own?](https://github.com/hingobway/reactbot/issues/new)
